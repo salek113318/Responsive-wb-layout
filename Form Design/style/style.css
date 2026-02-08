@@ -9,3 +9,22 @@ a {
     color: red;
 
 }
+.Login-form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    /* border: 1px solid blue; */
+}
+.Login-form{
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    width: 50%;
+    /* border: 2px solid red; */
+}
+.Login-form input{
+    margin-top: 20px;
+    
+   
+}
